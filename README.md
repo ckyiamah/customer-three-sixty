@@ -1,2 +1,2 @@
 # customer-three-sixty
-customer 360 repo
+customer 360 repository
